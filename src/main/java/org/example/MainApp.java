@@ -5,7 +5,7 @@ package org.example;
  * Дата создания: 09.10.2021
  */
 
-public class HomeApp07 {
+public class MainApp {
 
     public static void main(String[] args) {
 
